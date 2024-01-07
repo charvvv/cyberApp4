@@ -1,0 +1,140 @@
+{
+  "intermediate": {
+    "securingSocial": {
+      "intro1": "Social media allows us to stay connected, express ourselves, and share updates with networks of friends, family, coworkers, and more. However, without proper security habits, these platforms also expose us to serious privacy and cybersecurity risks that can do real-world harm. Oversharing personal information, having weak account protections, connecting indiscriminately with strangers, and interacting with suspicious content can lead to devastating consequences like identity theft, stalking, embarrassment, and account hijacking. As social media becomes an indispensable part of our lives, it's critical that users of all ages understand how to properly secure their accounts. This tutorial provides the essential tips and best practices you need to lock down your privacy and security across the social media platforms you use. I'll cover critical actions like enabling two-factor authentication, adjusting privacy settings, limiting personal details, scrutinizing connections and content, and watching for red flags. Don't let a simple oversight jeopardize your safety and reputation. Take control of your social media security!",
+      "tips1": [
+        "Use strong unique passwords and enable two-factor authentication.",
+        "Check and adjust privacy and security settings carefully.",
+        "Limit sharing of personal details like address, birthday, phone number.",
+        "Decline location tagging in posts and geo-tracking permissions.",
+        "Be cautious about connecting with strangers or accepting friend requests.",
+        "Watch for suspicious links and messages from contacts (could signal hacked account).",
+        "Monitor tags by others and remove unwanted tagged content.",
+        "Consider using a separate professional account if needed for work life."
+      ],
+      "keyTakeaways1": [
+        "Use strong unique passwords and 2FA",
+        "Check and limit sharing in settings",
+        "Be cautious with connections and location tagging",
+        "Watch for suspicious links and messages"
+      ]
+    },
+    "spam": {
+      "intro2": "Emails, texts, social media messages, pop-ups - cybercriminals are constantly bombarding us with spam and suspicious links aiming to infect devices, steal credentials, and compromise accounts. Their techniques are designed to manipulate users through fear, urgency, or curiosity. Without proper awareness, even tech-savvy folks can mistakenly click and activate malware or fall victim to sophisticated phishing scams. But you can fight back simply by understanding the common signs of spammy content and questionable links so you can recognize and avoid risks before they occur. This tutorial will delve into the sneaky tactics used by scammers so you can become proficient at spotting and stopping spam and suspicious links in their tracks. I'll outline the variety of channels they use, psychological tricks that fool people, and vital warning signals you need to watch for across emails, texts, ads, search results, and social platforms. Don't let them catch you off guard, with the right knowledge, you can outsmart them at their own game.",
+      "tips2": [
+        "Watch for poor spelling/grammar, threats, and urgency in messages to arouse suspicion.",
+        "Hover over links to preview destinations and look for misspellings or odd domains.",
+        "Be wary of sensationalist subjects, unsolicited offers, or requests for personal info.",
+        "Never open attachments from unknown senders - common malware tactic.",
+        "Use an ad blocker and avoid clicking pop-ups with enticing messages."
+      ],
+      "keyTakeaways2": [
+        "Scrutinize sources and offers closely",
+        "Hover to inspect links before clicking",
+        "Watch for manipulative tactics and threats",
+        "Use ad blockers and don't open attachments"
+      ]
+    },
+    "passwordManagers": {
+      "intro3": "With the proliferation of online accounts in every facet of life, most internet users find themselves overwhelmed trying to create and remember unique complex passwords for each account. This often leads to lazy habits like password reuse or weak credentials that leave their data incredibly vulnerable. Password managers provide an indispensable solution by securely generating and storing strong random passwords users don't have to memorize. However, to fully realize the security and convenience benefits of password managers, they must be set up and utilized properly based on best practices. This guide outlines crucial tips for leveraging password managers in an optimized secure manner, avoiding common security pitfalls, and effectively using features like automatic password generation/changing, two-factor authentication, and cross-device syncing. Properly configuring and integrating a password manager hardens your defenses. But mistakes like weak master credentials or password sharing can completely undermine their protections. Use this advice to maximize password managers as an unbreakable password vault.",
+      "tips3": [
+        "Use managers like LastPass, 1Password, Dashlane, NordPass, or any trusted platform for encryption and security.",
+        "Create a very strong master password that you don't use anywhere else.",
+        "Enable two-factor authentication for accessing your vault.",
+        "Only download managers from official app stores to avoid malware.",
+        "Check for auto password changing after breaches to stay secure."
+      ],
+      "keyTakeaways3": [
+        "Use trusted programs with encryption",
+        "Create a very strong master password",
+        "Enable two-factor authentication",
+        "Change passwords immediately after breaches"
+      ]
+    },
+    "backingData": {
+      "intro4": "With the volume of sensitive data being stored digitally exploding yearly, relying solely on primary devices or accounts puts that data at huge risk if they fail, are lost/stolen, or suffer a breach. To properly safeguard irreplaceable documents, photos, communications, and other critical digital assets, regular automated backups to external and cloud storage are essential.This guide covers best practices for implementing secure local, cloud, and offsite backup solutions tailored to individual budget and needs. It explains affordable hardware, software, and cloud storage options for developing a multi-layered backup strategy. With diligence on the front-end to create an automated backup system, catastrophic data loss can be averted.",
+      "tips4": [
+        "Use external hard drives to backup locally. Store in secure offsite location.",
+        "Leverage reliable cloud backup services like Carbonite, IDrive, Backblaze, Dropbox, or any secure service within your preferable parameters.",
+        "Encrypt backup files/devices and use strong unique passwords/2FA access.",
+        "Schedule regular automatic backups instead of sporadic manual ones.",
+        "Test restoring from backups periodically to verify completeness."
+         ],
+      "keyTakeaways4": [
+        "Use both local and cloud backups",
+        "Encrypt all backup files and devices",
+        "Schedule regular automatic backups",
+        "Schedule regular automatic backups"
+      ]
+    },
+    "scamSites":{
+      "intro5": "With sophisticated phishing attacks and scam websites constantly emerging, being able to recognize fraudulent sites is a critical security skill. Skilled scammers adeptly mimic legitimate businesses to deceive users into sharing login credentials, financial info, or personal data. But some vigilance and knowledge of warning signs can help you spot and avoid entering information on fake websites. This guide outlines techniques scammers use to create convincing imposter sites and things to look for to identify fraudulent websites before you become a victim. Don't let a momentary lapse in judgment lead to compromised accounts, identity theft, or financial loss down the road.",
+      "tips5": [
+        "Watch for odd URLs with substituted letters or misspellings.",
+        "Inspect site certificates - expired, mismatched sites are red flags.",
+        "Poor grammar/spelling, broken links, or strange contact details signal possible fakes.",
+        "Call companies at official numbers to verify if login/payment pages are real.",
+        "Sites requesting unnecessary personal data like SSNs are extremely suspicious.",
+        "Trust instincts if something feels off about a site."
+      ],
+    "keyTakeaways5": [
+        "Verify URLs - watch for odd spellings/substitutions ",
+        "Check SSL certificates match domain",
+        "Contact companies directly if unsure",
+        "Don't provide sensitive info on suspicious sites"
+    ]
+    },
+    "privPol":{
+      "intro6": "App and website privacy policies outline what user data is collected and how it's used/shared by companies. But few take time to actually read these dense policies before signing up. That exposes your information to potential misuse. It's important to understand what data apps/sites gather and to configure privacy settings accordingly. This guide provides tips for scrutinizing privacy policies to identify risky data collection practices. I'll also cover adjusting platform privacy settings to limit sharing of your personal information. Being informed about how your data will be leveraged is the key first step to securing your online privacy.",
+      "tips6" : [
+        "Scan policies for types/amounts of data gathered, sharing, and retention periods.",
+        "Watch for vague language allowing broad uses of your information.",
+        "Adjust app permissions, marketing opt-outs, account visibility in settings.",
+        "Disable location tracking, social media linkage, ad personalization where possible.",
+        "Seek platforms allowing pseudonyms or partial information where adequate."
+        ],
+      "keyTakeaways6": [
+        "Read privacy policies closely",
+        "Scrutinize data usage practices and periods",
+        "Adjust settings to limit sharing and visibility",
+        "Opt-out of marketing and data sales where possible"
+      ]
+    },
+    "cookies": {
+      "intro7": "As you browse and shop online, websites use small tracking files called cookies to monitor your activity for purposes like ads, analytics, and customization. But some companies take it too far, using invasive tracking and selling of your data without proper notice or consent. This guide explains what cookies and web beacons do, their legitimate and questionable uses, and how to identify and limit invasive tracking that violates your privacy. Become an informed user so you can maintain more control over how your web activity data gets exploited.",
+      "tips7": [
+        "Recognize tracking cookies from sites you don’t directly interact with.",
+        "Use Private/Incognito browsing which blocks cookies from being stored.",
+        "Disable Third Party cookies in browser settings to limit tracking.",
+        "Install browser extensions like Privacy Badger that block hidden trackers.",
+        "Frequently clear your cookies and browser cache."
+      ],
+      "keyTakeaways7": [
+        "Identify first vs third party tracking cookies",
+        "Use Private browsing modes to avoid storing cookies",
+        "Disable Third Party cookies in settings",
+        "Consent only to minimal necessary cookie uses"
+      ]
+    },
+    "spyware" : {
+      "intro8": "Spyware and malware pose severe threats by infecting devices, stealing personal data, and enabling cybercriminal access. Traditionally spread through spam links/attachments, these insidious programs now have more subtle distribution methods. Without proper scanning tools and awareness of symptoms, infections can persist undetected. This guide covers modern spyware/malware delivery tactics, warning signs of infection, best practices for scans, and habits to avoid exposure. Don't give criminals an open window into your device and activity. Use this advice to keep your guard up and proactively detect any spyware or malware compromising your security.",
+      "tips8": [
+        "Use reputable antivirus software with real-time scanning and threat updates.",
+        "Watch for performance issues, pop-ups, unknown programs, or spikes in activity.",
+        "Carefully inspect download sources, free software offers, and attachments.",
+        "Perform regular system-wide scans in addition to real-time scanning.",
+        "Update software frequently and avoid pirated programs that bypass security.",
+        "Use caution with public USB charging stations which can spread infections."
+      ],
+      "keyTakeaways8": [
+        "Use reputable antivirus software with regular scans",
+        "Monitor for performance issues or abnormal activity",
+        "Inspect downloads and avoid pirated software",
+        "Keep all applications and systems updated"
+      ]
+      
+    }
+    
+    
+  }
+}
